@@ -1,15 +1,18 @@
-#Table of contents
+## Table of contents
 
-1 [About The Projct](#about-the-project)
-    -[Built With](#built-with)
-2 [Getting Started](#getting-started)
-    -[Prerequisites](#prerequisites)
-    -[Installation](#installation)
-3 [Usage](#usage)
-4 [Roadmap](#roadmap)
-5 [Contributing](#contributing)
-6 [Licence](#licence)
-7 [Acknowledgament](#acknowledgement)
+
+ 1.	About The Project
+    - Built With
+2.	Getting Started
+    - Prerequisites
+    - Installation
+3.	Usage
+4.	Roadmap
+5.	Contributing
+6.	License
+7.	Contact
+8.	Acknowledgments
+
 
 ## About The Project
 
@@ -17,11 +20,11 @@
 
 ## Built With
 
-HTML
-CSS
-ReactJS
-Node
-MongoDB
+- HTML
+- CSS
+- ReactJS
+- Node
+- MongoDB
 
 
 ## Getting Started
@@ -47,6 +50,11 @@ MongoDB
 
 ## Licence
 
+
+## Contact
+
+Urmil Bhavsar - @urmil_bhavsar - urmilbhavsar8@gmail.com
+Project Link: https://github.com/Akanbi99/Team6-SkillValley
 
 ## Acknowledgement
 
