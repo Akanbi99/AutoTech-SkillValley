@@ -1,0 +1,82 @@
+body{
+    background-color:black;
+}
+
+
+.login{
+    display: flex;
+    justify-content: end;
+    padding-right: 1rem;
+}
+
+.login-btn {
+    border: none;
+    background-color: black;
+    padding: 2px;
+    margin: 5px;
+    font-size: 1rem;
+    color: white;
+    cursor: pointer;
+}
+
+.enroll-btn{
+    border: none;
+    background-color: rgb(238, 78, 238);
+    padding: 2px;
+    margin: 5px;
+    font-size: 1rem;
+    color: white;
+    cursor: pointer;
+}
+
+.navbar{
+    display: flex;
+    justify-content:right;
+}
+
+.navbar a{
+    color: white;
+    padding: 0.5rem;
+    text-decoration: none;
+}
+
+.navbar li{
+   display: inline;
+}
+
+.heading-text{
+    color: white;
+    font-size: 1.5rem;
+}
+
+.course-div{
+   
+    background-color: white;
+    display: flex;
+    justify-content:space-evenly;
+    margin: 1.7rem 15rem;
+    align-items: center;
+}
+
+.course-heading{
+    color: white;
+    text-align: center;
+}
+
+img{
+    width: 40vh;
+    height: 40vh;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.join-btn {
+    background-color: white;
+    border: 1px solid black;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+.course-name {
+    font-size: 1.2rem;
+}
